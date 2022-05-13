@@ -1,0 +1,91 @@
+/* .app {
+    text-align: center;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.time {
+    font-size: 3rem;
+    padding: 2rem;
+} */
+
+/* .button {
+    padding: .6rem 1.5rem;
+    margin: .4rem;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .8rem;
+    border-style: groove;
+}
+
+.button:focus {
+    outline-width: 0;
+}
+
+.button-primary:hover {
+    background-color: #2641d4;
+    border: 1px solid #1b1f2b;
+}
+
+.button-primary-active {
+    background-color: #3151ff;
+    border: 1px solid #152684;
+    color: white;
+}
+
+.button-primary-inactive {
+    background-color: #3151ff;
+    border: 1px solid #152684;
+    color: white;
+} */
+
+
+
+
+
+.Timers {
+    width: 180px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#display {
+    margin-bottom: 20px;
+}
+
+#display span {
+    font-size: 36px;
+}
+
+#buttons button:nth-child(2) {
+    margin-left: 8px;
+}
+
+button {
+    font-size: 16px;
+    background-color: rgb(48, 109, 133);
+    /* color: #fff; */
+    /* border-radius: 8px;s */
+    /* border: none; */
+    /* padding: 6px 12px; */
+    /* cursor: pointer; */
+}
+
+button:hover {
+    background-color: rgb(14, 55, 82);
+}
+
+button:active {
+    background-color: rgb(55, 73, 72);
+}
+
+button:focus {
+    /* outline: 0; */
+}
